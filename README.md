@@ -14,13 +14,8 @@ Olá! Me chamo Carlos Costa, tenho 25 anos e sou natural de Parintins/AM. Estou 
         />
     </a>
      </a>
-    <a href="https://www.linkedin.com/in/carlos-costa-9476a623b/">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba&color=236ad3"
-        />
-    </a>
+   
+
 </p>
 
 ---
